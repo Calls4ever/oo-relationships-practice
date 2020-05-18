@@ -1,4 +1,5 @@
 # # create files for your ruby classes in this directory
+<<<<<<< HEAD
 # You are building an app for a national bakery chain
 
 # your models are bakeries, desserts, ingredients
@@ -11,3 +12,14 @@
 
 
 
+=======
+
+
+# Trip
+# #listing
+# returns the listing object for the trip
+# #guest
+# returns the guest object for the trip
+# .all
+# returns an array of all trips
+>>>>>>> 8cb809fe8846bac7630db6e4f890a234f772e8cf
